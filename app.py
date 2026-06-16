@@ -709,7 +709,7 @@ def load_mall_data():
             "discount": 22,
             "color": "White/Green",
             "sizes": {"UK7": 10, "UK8": 14, "UK9": 12, "UK10": 8},
-            "image": "https://images.unsplash.com/photo-1549298916-b41d501d3772?w=400",
+            "image": "https://assets.adidas.com/images/w_600,f_auto,q_auto/701aeaab5d4f4ed382da2cb14562d9af_9366/Stan_Smith_Shoes_White_ID0268_01_standard.jpg",
             "rating": 4.7,
             "reviews": 1045
         },
@@ -725,7 +725,7 @@ def load_mall_data():
             "discount": 25,
             "color": "Black",
             "sizes": {"S": 15, "M": 20, "L": 18, "XL": 12},
-            "image": "https://images.unsplash.com/photo-1506629082955-511b1aa562c8?w=400",
+            "image": "https://assets.adidas.com/images/w_600,f_auto,q_auto/73d63d6093804e76a22109d36025125b_9366/TRAINING_ESSENTIALS_BASE_3_STRIPES_PANTS_Black_IT5501_22_model.jpg",
             "rating": 4.5,
             "reviews": 456
         },
