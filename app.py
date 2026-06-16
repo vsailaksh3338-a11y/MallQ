@@ -543,7 +543,7 @@ def load_mall_data():
             "discount": 25,
             "color": "White",
             "sizes": {"S": 5, "M": 8, "L": 12, "XL": 6},
-            "image": "https://images.unsplash.com/photo-1596755094514-f87e34085b2c?w=400",
+            "image": "https://static.zara.net/assets/public/059e/0b0f/7e1b48d49030/49ea36f53c4e/07545738250-e1/07545738250-e1.jpg?ts=17733889237640",
             "rating": 4.5,
             "reviews": 128
         },
